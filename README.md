@@ -9,6 +9,15 @@ App basada en un reto propuesto por la plataforma [roadmap.sh](https://roadmap.s
 - Ingresa el nombre de usuario que te interese buscar.
 - Ejemplo: `sOliveto93`
 
+## Instalacion 
+
+- Clonar el proyecto github
+- java instalado
+- jdk 17
+- importar el proyecto a tu ide favorito.
+- Run File en la clase Main
+- Colocar en consola el perfil de github a buscar.
+
 ### Respuesta de la API:
 
 ```json
@@ -42,13 +51,6 @@ App basada en un reto propuesto por la plataforma [roadmap.sh](https://roadmap.s
 ]
 
 
-## Instalacion 
 
-- Clonar el proyecto github
-- java instalado
-- jdk 17
-- importar el proyecto a tu ide favorito.
-- Run File en la clase Main
-- Colocar en consola el perfil de github a buscar.
 
 
