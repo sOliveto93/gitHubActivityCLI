@@ -43,11 +43,11 @@ https://roadmap.sh/projects/github-user-activity
 
 ## Instalacion 
 
-Clonar el proyecto github
-java instalado
-jdk 17
-importar el proyecto a tu ide favorito.
-Run File en la clase Main
-Colocar en consola el perfil de github a buscar.
+- Clonar el proyecto github
+- java instalado
+- jdk 17
+- importar el proyecto a tu ide favorito.
+- Run File en la clase Main
+- Colocar en consola el perfil de github a buscar.
 
 
