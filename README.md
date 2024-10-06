@@ -1,19 +1,19 @@
 ## GitHub Activity CLI
-CLI que utiliza la api publica de git hub para observar la actividad de los usuarios durante los pasados 90 dias.
 
-App basada en un reto propueto por la plataforma roadmap.sh
-https://roadmap.sh/projects/github-user-activity
+CLI que utiliza la API pública de GitHub para observar la actividad de los usuarios durante los pasados 90 días.
 
+App basada en un reto propuesto por la plataforma [roadmap.sh](https://roadmap.sh/projects/github-user-activity).
 
 ## Funcionamiento
 
-- ingresa numero de usuario que interese buscar
-- ej--> sOliveto93
+- Ingresa el nombre de usuario que te interese buscar.
+- Ejemplo: `sOliveto93`
 
+### Respuesta de la API:
 
-
- respuesta:
-> ``` [{
+```json
+[
+    {
         "id": "42480671640",
         "type": "CreateEvent",
         "actor": {
@@ -33,13 +33,14 @@ https://roadmap.sh/projects/github-user-activity
             "ref": null,
             "ref_type": "repository",
             "master_branch": "main",
-            "description": "repo para distintas pruebas tecnicas",
+            "description": "repo para distintas pruebas técnicas",
             "pusher_type": "user"
         },
         "public": true,
         "created_at": "2024-10-02T16:25:04Z"
     }
-] 
+]
+
 
 ## Instalacion 
 
