@@ -13,6 +13,7 @@ https://roadmap.sh/projects/github-user-activity
 
 
 > respuesta:
+> ``codigo
 > [{
         "id": "42480671640",
         "type": "CreateEvent",
@@ -39,7 +40,7 @@ https://roadmap.sh/projects/github-user-activity
         "public": true,
         "created_at": "2024-10-02T16:25:04Z"
     }
-]
+]``
 
 ## Instalacion 
 
